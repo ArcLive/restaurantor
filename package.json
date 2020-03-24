@@ -8,7 +8,7 @@
   },
   "engines": {
     "npm": ">=5",
-    "node": ">=8"
+    "node": "11.15.x"
   },
   "author": "Max Stoiber",
   "license": "MIT",
